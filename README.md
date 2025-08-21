@@ -1,5 +1,4 @@
-# ShopNest-Store-Retail-Analytics-Power-BI-
-# ShopNest Store Retail Analytics – Power BI
+# ShopNest-Store-Retail-Analytics - Power-BI
 
 ## 📅 Date
 June 2025
